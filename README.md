@@ -23,7 +23,6 @@ This contract is a **custom ERC20 token** with built-in economic behavior note:
 - Liquidity is automatically added on Uniswap
 - Holders can receive passive rewards via reflections
 
-It is **not** a protocol, DAO, or DeFi primitive.  
 It is a **token mechanics reference implementation**.
 
 ---
