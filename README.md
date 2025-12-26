@@ -1,6 +1,6 @@
 
 
-```md
+
 # ERC20 Liquidity Generator Token
 
 A **reference implementation** of a fee-on-transfer ERC20 token
